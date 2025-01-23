@@ -7,7 +7,7 @@ Apaixonado pela tecnologia e suas possibilidades, sou estudante de Análise e De
 
 - 🚀 Curioso nato, busco sempre aprender novas ferramentas e tecnologias como a IA, TypeScript E Node.js
 
-- Fique a vontade para desbavrar meu projetos.
+- Fique a vontade para desbravar meus projetos.
 
 - 📧 Se precisar entrar em contato comigo, envie um e-mail para joserogeriosev@gmail.com
 
@@ -29,4 +29,4 @@ Apaixonado pela tecnologia e suas possibilidades, sou estudante de Análise e De
 
 
 ## 🤝 Vamos nos conectar!
-Caso queira saber mais para construirmos algo, fale comigo e vamos conversar mais um pouco. 
+Caso queira saber mais para construírmos algo, fale comigo e vamos conversar mais um pouco. 
